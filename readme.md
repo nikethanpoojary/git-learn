@@ -2,4 +2,5 @@
 
 ## demo instructions
 
-'''bash npm install
+'''bash 
+npm install
