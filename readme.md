@@ -1,5 +1,5 @@
-#demo for git practice
+# demo for git practice
 
-##demo instructions
+## demo instructions
 
 '''bash npm install'''
